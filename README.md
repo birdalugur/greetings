@@ -17,7 +17,13 @@ func main() {
 	message := greetings.Hello("uğur")
 	fmt.Println(message)
 }
+
+add dependencies to current module and install them:
+
+```sh
+➜ go get github.com/birdalugureren/greetings
 ```
+
 Let's run the code:
 ```sh
 ➜ go run hello.go
