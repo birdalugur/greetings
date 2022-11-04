@@ -10,7 +10,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/birdalugureren/greetings"
+	"github.com/ugurpy/greetings"
 )
 
 func main() {
