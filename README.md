@@ -39,7 +39,7 @@ func main() {
 add dependencies to current module and install them:
 
 ```sh
-➜ go get github.com/birdalugureren/greetings
+➜ go get github.com/ugurpy/greetings
 ```
 
 Let's run the code:
